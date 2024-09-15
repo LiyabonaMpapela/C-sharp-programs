@@ -1,0 +1,9 @@
+C:\Users\liyab\OneDrive - University of Cape Town\c#\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+C:\Users\liyab\OneDrive - University of Cape Town\c#\Shapes\obj\Debug\Shapes.Properties.Resources.resources
+C:\Users\liyab\OneDrive - University of Cape Town\c#\Shapes\obj\Debug\Shapes.csproj.GenerateResource.cache
+C:\Users\liyab\OneDrive - University of Cape Town\c#\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\liyab\OneDrive - University of Cape Town\c#\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\liyab\OneDrive - University of Cape Town\c#\Shapes\bin\Debug\Shapes.exe
+C:\Users\liyab\OneDrive - University of Cape Town\c#\Shapes\bin\Debug\Shapes.pdb
+C:\Users\liyab\OneDrive - University of Cape Town\c#\Shapes\obj\Debug\Shapes.exe
+C:\Users\liyab\OneDrive - University of Cape Town\c#\Shapes\obj\Debug\Shapes.pdb
